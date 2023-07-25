@@ -7,16 +7,20 @@ Using pretrained Pytorch model and training on Custom Object Detection Dataset.
 
 Results:
 
-Labels:
-![val_batch0_labels](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/c548b5b4-db74-40cf-993c-9ab69eb47f82)
+Label:
+![val_batch2_labels](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/94f24f63-fd0c-4bda-83ce-c59a8cb2270b)
+
 
 Prediction:
-![val_batch0_pred](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/506597b6-b237-4c94-b2c3-71f8b6086e58)
+![val_batch2_pred](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/1b3ef9be-a711-451f-96ec-e3b3637513bd)
+
 
 Runs:
 
 F1 Curve:
-![F1_curve](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/3ad1a067-b404-4a1f-8e3e-65c5f6457ca2)
+![F1_curve](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/02dc9368-e9bc-4074-95b7-d08ef63b665f)
+
 
 Normalized Confusion matrix:
-![confusion_matrix_normalized](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/af99a231-0cdb-4faa-96b6-e0d46a56f263)
+![confusion_matrix_normalized](https://github.com/iamgautamy/River-pollution-Object-Detection-Model/assets/50361898/9f98e538-9bc2-4caf-a4c9-3532cb00c91e)
+
