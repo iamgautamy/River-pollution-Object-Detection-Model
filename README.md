@@ -5,6 +5,9 @@ Trained on State of the art YOLO v8 model.
 
 Using pretrained Pytorch model and training on Custom Object Detection Dataset.
 
+Dataset Link:
+https://huggingface.co/datasets/Kili/plastic_in_river
+
 Results:
 
 Label:
